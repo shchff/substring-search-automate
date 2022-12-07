@@ -1,1 +1,1 @@
-#Automate substring search
+#Automate substring search#
